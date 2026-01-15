@@ -1,0 +1,35 @@
+# Java
+*.class
+*.jar
+*.war
+*.ear
+
+# Maven
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+
+# Test reports
+test-output/
+surefire-reports/
+failsafe-reports/
+logs/
+*.log
+
+# REST-assured / API test artifacts
+*.json
+*.xml
+*.html
+reports/
+
+# Environment / config
+.env
+.env.*
+config.properties
+application.properties
