@@ -7,7 +7,7 @@
 
 This project is intended for learning, demonstration, and portfolio purposes.
 
-# Swagger Petstore REST Assured API Automation Framework (Java 17 + TestNG)
+## Swagger Petstore REST Assured API Automation Framework (Java 17 + TestNG)
 
 **portfolio-ready** API automation framework built on:
 **REST Assured** (HTTP client + assertions)
