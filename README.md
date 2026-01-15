@@ -9,6 +9,8 @@ This project is intended for learning, demonstration, and portfolio purposes.
 
 ## Swagger Petstore REST Assured API Automation Framework (Java 17 + TestNG)
 
+This repository contains a production-ready Android mobile automation framework built using Appium, Java, TestNG, and Page Object Model (POM).
+
 **portfolio-ready** API automation framework built on:
 **REST Assured** (HTTP client + assertions)
 **TestNG** (suite orchestration)
