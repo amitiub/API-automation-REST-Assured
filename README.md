@@ -127,3 +127,8 @@ Additional endpoints tested:
 - `DELETE /user/{username}`
 - `GET /user/login`
 - `GET /user/logout`
+
+## Test Result:
+
+<img width="999" height="443" alt="image" src="https://github.com/user-attachments/assets/ef708c8f-7482-4599-a544-96f6ebaf5552" />
+
